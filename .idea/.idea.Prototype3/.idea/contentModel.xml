@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\avalizadeh\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\avalizadeh\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\ReSharperHost\v202\SolutionCaches\_Prototype3.-638711407.00" t="ExcludeRecursive" />
+    <e p="D:\work\me\source\games\Unity Course\Week 3\project\Prototype3" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Course Library" t="Include">
+          <e p="_Source_Files" t="Include">
+            <e p="_LICENSE.txt" t="Include" />
+            <e p="Materials" t="Include">
+              <e p="UnlitVertexColour_Alpha.shader" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Background" t="Include">
+            <e p="RepeatBackground.cs" t="Include" />
+          </e>
+          <e p="Environment" t="Include">
+            <e p="EnvironmentData.cs" t="Include" />
+            <e p="EnvironmentInitializer.cs" t="Include" />
+          </e>
+          <e p="Events" t="Include">
+            <e p="ChangeSpeedEvent.cs" t="Include" />
+            <e p="ChangeSpeedEventArgs.cs" t="Include" />
+            <e p="EventRepo.cs" t="Include" />
+            <e p="HitToObstacleEvent.cs" t="Include" />
+          </e>
+          <e p="GameState" t="Include">
+            <e p="CheckPlayerLife.cs" t="Include" />
+            <e p="GameMenuController.cs" t="Include" />
+            <e p="GameStateData.cs" t="Include" />
+            <e p="ScoreManager.cs" t="Include" />
+          </e>
+          <e p="Movements" t="Include">
+            <e p="DestroyOutOfBounds.cs" t="Include" />
+            <e p="FloatObject.cs" t="Include" />
+            <e p="MoveLeft.cs" t="Include" />
+          </e>
+          <e p="Pickup" t="Include">
+            <e p="Ability.cs" t="Include" />
+            <e p="PickupPower.cs" t="Include" />
+          </e>
+          <e p="Player" t="Include">
+            <e p="CheckCollideObstacle.cs" t="Include" />
+            <e p="CheckCollidePickup.cs" t="Include" />
+            <e p="EffectsController.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="Spawn" t="Include">
+            <e p="SpawnManager.cs" t="Include" />
+          </e>
+          <e p="Utils" t="Include">
+            <e p="Tags.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Prototype3.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
